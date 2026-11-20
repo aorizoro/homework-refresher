@@ -1,0 +1,11 @@
+{
+  "name": "homework-refresher-marketplace",
+  "owner": { "name": "aorizoro" },
+  "plugins": [
+    {
+      "name": "homework-refresher",
+      "source": "./plugins/homework-refresher",
+      "description": "Short lecture-material refresher before solving a homework exercise, without hints or solutions."
+    }
+  ]
+}
